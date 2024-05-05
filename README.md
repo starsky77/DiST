@@ -1,4 +1,4 @@
-# Does Resistance to Style-Transfer Equal Shape Bias? Evaluating Shape Bias by Distorted Shape
+# Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration
 
 The repo serves as supporting material of paper *Does Resistance to Style-Transfer Equal Shape Bias? Evaluating Shape Bias by Distorted Shape*. The repo has been anonymized to abid the double-blind review process.
 
