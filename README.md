@@ -1,13 +1,13 @@
 # Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration
 
-The repo serves as supporting material of paper *Does Resistance to Style-Transfer Equal Shape Bias? Evaluating Shape Bias by Distorted Shape*. The repo has been anonymized to abid the double-blind review process.
+The repo serves as supporting material of paper *Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration*. The repo has been anonymized to abid the double-blind review process.
 
 The following is the structure of this repo.
 ```
 ├── data/                    # Images of DiST
     ├── original/            # Stored the original images
-    ├── set1/                # Stored the shape distorted images
-    ├── set2/                # Stored the another version of shape distorted images
+    ├── set1/                # Stored the structure disruppted images
+    ├── set2/                # Stored the another version of structure disruppted images
 ├── src/                     # Source code 
     ├── feature_attribution/ # Source code for generate the sensitivity map
 ├── model/                   # Model weight trained by applying DiSTinguish using ffcv
@@ -17,7 +17,7 @@ The following is the structure of this repo.
 ```
 
 
-## Evaluate shape bias based on Distorted Shape TestBench (DiST)
+## Evaluate shape bias based on Disruppted Structure  TestBench (DiST)
 
 `/src/eval.py` contains the code that is used for the evaluation using DiST. To reproduce the results in the paper, execute `/scripts/eval.sh`. 
 
