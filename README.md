@@ -1,6 +1,6 @@
 # Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration
 
-The repo serves as supporting material of paper *Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration*. The repo has been anonymized to abid the double-blind review process.
+The repo serves as supporting material of paper *Does resistance to style-transfer equal Global Shape Bias? Measuring network sensitivity to global shape configuration*. 
 
 The following is the structure of this repo.
 ```
